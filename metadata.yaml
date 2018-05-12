@@ -1,0 +1,24 @@
+_repo: Little-Mary--13-Or-The-Picture-Book_23288
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cecil, Sabina
+    gutenberg_agent_id: '25788'
+    url: http://www.gutenberg.org/2009/agents/25788
+description: ''
+gutenberg_issued: '2007-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picture books for children -- United States'
+- !lcc 'PZ'
+title: "Little Mary\r\nOr, The Picture-Book"
+url: http://www.gutenberg.org/ebooks/23288
